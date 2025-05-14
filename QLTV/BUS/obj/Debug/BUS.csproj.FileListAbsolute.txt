@@ -16,21 +16,3 @@ D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.c
 D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\BUS\obj\Debug\BUS.csproj.CopyComplete
 D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\BUS\obj\Debug\BUS.dll
 D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\BUS\obj\Debug\BUS.pdb
-D:\pp số trong lt\QLTV-1.0.0\BUS\bin\Debug\BUS.dll.config
-D:\pp số trong lt\QLTV-1.0.0\BUS\bin\Debug\BUS.dll
-D:\pp số trong lt\QLTV-1.0.0\BUS\bin\Debug\BUS.pdb
-D:\pp số trong lt\QLTV-1.0.0\BUS\bin\Debug\DAL.dll
-D:\pp số trong lt\QLTV-1.0.0\BUS\bin\Debug\DTO.dll
-D:\pp số trong lt\QLTV-1.0.0\BUS\bin\Debug\EntityFramework.dll
-D:\pp số trong lt\QLTV-1.0.0\BUS\bin\Debug\EntityFramework.SqlServer.dll
-D:\pp số trong lt\QLTV-1.0.0\BUS\bin\Debug\DAL.pdb
-D:\pp số trong lt\QLTV-1.0.0\BUS\bin\Debug\DAL.dll.config
-D:\pp số trong lt\QLTV-1.0.0\BUS\bin\Debug\DTO.pdb
-D:\pp số trong lt\QLTV-1.0.0\BUS\bin\Debug\DTO.dll.config
-D:\pp số trong lt\QLTV-1.0.0\BUS\bin\Debug\EntityFramework.xml
-D:\pp số trong lt\QLTV-1.0.0\BUS\bin\Debug\EntityFramework.SqlServer.xml
-D:\pp số trong lt\QLTV-1.0.0\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
-D:\pp số trong lt\QLTV-1.0.0\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
-D:\pp số trong lt\QLTV-1.0.0\BUS\obj\Debug\BUS.csproj.CopyComplete
-D:\pp số trong lt\QLTV-1.0.0\BUS\obj\Debug\BUS.dll
-D:\pp số trong lt\QLTV-1.0.0\BUS\obj\Debug\BUS.pdb
