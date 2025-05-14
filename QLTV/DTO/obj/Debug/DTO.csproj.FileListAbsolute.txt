@@ -1,0 +1,12 @@
+D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\DTO\bin\Debug\DTO.dll.config
+D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\DTO\bin\Debug\DTO.dll
+D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\DTO\bin\Debug\DTO.pdb
+D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\DTO\bin\Debug\EntityFramework.dll
+D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\DTO\bin\Debug\EntityFramework.xml
+D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\DTO\obj\Debug\DTO.dll
+D:\PROJECT-DOANTOTNGHIEP\QLTV-1.0.0\DTO\obj\Debug\DTO.pdb
