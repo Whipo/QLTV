@@ -69,7 +69,6 @@ namespace GUI
             {
                 MessageBox.Show("Chưa nhập số tiền thu", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error); ;
                 return;
-                return;
             }
             TienThu = Convert.ToInt32(textTienThu.Text);
             //Console.WriteLine("Bf: ",TienThu);
