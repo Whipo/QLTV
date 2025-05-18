@@ -1,0 +1,1 @@
+# Đề tài xây dựng phần mềm quản lý thư viện cho VAN VUONG bằng C# nhằm giảm thiểu công việc thủ công, tiết kiệm thời gian, tăng năng suất nhập liệu, lập báo cáo, và đảm bảo bảo mật trong quản lý. Phần mềm hỗ trợ quản lý thông tin sách, độc giả, mượn/trả sách, thu tiền phạt, và tạo báo cáo thống kê
